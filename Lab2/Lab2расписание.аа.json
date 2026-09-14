@@ -1,0 +1,216 @@
+[{
+  "_id": {
+    "$oid": "6aa7cd8f74e09f0b5444069a"
+  },
+  "day": "Понедельник",
+  "dayOfWeek": 1,
+  "startTime": "12:00",
+  "endTime": "12:50",
+  "subject": "Проектирование и применение NoSQL",
+  "room": "501Б",
+  "type": "лекция"
+},
+{
+  "_id": {
+    "$oid": "6aa7cd8f74e09f0b5444069b"
+  },
+  "day": "Понедельник",
+  "dayOfWeek": 1,
+  "startTime": "13:05",
+  "endTime": "13:55",
+  "subject": "Проектирование и применение NoSQL",
+  "room": "401С",
+  "type": "лабораторная"
+},
+{
+  "_id": {
+    "$oid": "6aa7cd8f74e09f0b5444069c"
+  },
+  "day": "Понедельник",
+  "dayOfWeek": 1,
+  "startTime": "14:10",
+  "endTime": "15:00",
+  "subject": "Проектирование и применение NoSQL",
+  "room": "401С",
+  "type": "лабораторная"
+},
+{
+  "_id": {
+    "$oid": "6aa7cd8f74e09f0b5444069d"
+  },
+  "day": "Понедельник",
+  "dayOfWeek": 1,
+  "startTime": "15:15",
+  "endTime": "16:05",
+  "subject": "Проектирование на РНР",
+  "room": "401С",
+  "type": "лабораторная"
+},
+{
+  "_id": {
+    "$oid": "6aa7cd8f74e09f0b5444069e"
+  },
+  "day": "Понедельник",
+  "dayOfWeek": 1,
+  "startTime": "16:20",
+  "endTime": "17:10",
+  "subject": "Проектирование на РНР",
+  "room": "401С",
+  "type": "лабораторная"
+},
+{
+  "_id": {
+    "$oid": "6aa7cd8f74e09f0b5444069f"
+  },
+  "day": "Вторник",
+  "dayOfWeek": 2,
+  "startTime": "12:00",
+  "endTime": "12:50",
+  "subject": "Визуальное программирование",
+  "room": "501Б",
+  "type": "лекция"
+},
+{
+  "_id": {
+    "$oid": "6aa7cd8f74e09f0b544406a0"
+  },
+  "day": "Вторник",
+  "dayOfWeek": 2,
+  "startTime": "13:05",
+  "endTime": "13:55",
+  "subject": "Визуальное программирование",
+  "room": "404С",
+  "type": "лабораторная"
+},
+{
+  "_id": {
+    "$oid": "6aa7cd8f74e09f0b544406a1"
+  },
+  "day": "Вторник",
+  "dayOfWeek": 2,
+  "startTime": "14:10",
+  "endTime": "15:00",
+  "subject": "Визуальное программирование",
+  "room": "404С",
+  "type": "лабораторная"
+},
+{
+  "_id": {
+    "$oid": "6aa7cd8f74e09f0b544406a2"
+  },
+  "day": "Среда",
+  "dayOfWeek": 3,
+  "startTime": "13:05",
+  "endTime": "13:55",
+  "subject": "Компьютерные сети",
+  "room": "401С",
+  "type": "лабораторная"
+},
+{
+  "_id": {
+    "$oid": "6aa7cd8f74e09f0b544406a3"
+  },
+  "day": "Среда",
+  "dayOfWeek": 3,
+  "startTime": "14:10",
+  "endTime": "15:00",
+  "subject": "Компьютерные сети",
+  "room": "401С",
+  "type": "лабораторная"
+},
+{
+  "_id": {
+    "$oid": "6aa7cd8f74e09f0b544406a4"
+  },
+  "day": "Четверг",
+  "dayOfWeek": 4,
+  "startTime": "08:30",
+  "endTime": "09:20",
+  "subject": "Программирование на РНР",
+  "room": "501Б",
+  "type": "лекция"
+},
+{
+  "_id": {
+    "$oid": "6aa7cd8f74e09f0b544406a5"
+  },
+  "day": "Четверг",
+  "dayOfWeek": 4,
+  "startTime": "09:35",
+  "endTime": "10:25",
+  "subject": "Основы ИБ",
+  "room": "501Б",
+  "type": "лекция"
+},
+{
+  "_id": {
+    "$oid": "6aa7cd8f74e09f0b544406a6"
+  },
+  "day": "Четверг",
+  "dayOfWeek": 4,
+  "startTime": "10:40",
+  "endTime": "11:30",
+  "subject": "Основы ИБ",
+  "room": "316Б",
+  "type": "практика"
+},
+{
+  "_id": {
+    "$oid": "6aa7cd8f74e09f0b544406a7"
+  },
+  "day": "Четверг",
+  "dayOfWeek": 4,
+  "startTime": "12:00",
+  "endTime": "12:50",
+  "subject": "Основы ИБ",
+  "room": "316Б",
+  "type": "практика"
+},
+{
+  "_id": {
+    "$oid": "6aa7cd8f74e09f0b544406a8"
+  },
+  "day": "Четверг",
+  "dayOfWeek": 4,
+  "startTime": "16:20",
+  "endTime": "17:00",
+  "subject": "Комп сети",
+  "room": "онлайн",
+  "type": "лекция"
+},
+{
+  "_id": {
+    "$oid": "6aa7cd8f74e09f0b544406a9"
+  },
+  "day": "Пятница",
+  "dayOfWeek": 5,
+  "startTime": "16:20",
+  "endTime": "17:10",
+  "subject": "Основы исследования операций",
+  "room": "501Б",
+  "type": "лекция"
+},
+{
+  "_id": {
+    "$oid": "6aa7cd8f74e09f0b544406aa"
+  },
+  "day": "Пятница",
+  "dayOfWeek": 5,
+  "startTime": "17:25",
+  "endTime": "18:15",
+  "subject": "Основы исследования операций",
+  "room": "401С",
+  "type": "лабораторная"
+},
+{
+  "_id": {
+    "$oid": "6aa7cd8f74e09f0b544406ab"
+  },
+  "day": "Пятница",
+  "dayOfWeek": 5,
+  "startTime": "18:30",
+  "endTime": "19:20",
+  "subject": "Основы исследования операций",
+  "room": "401С",
+  "type": "лабораторная"
+}]
