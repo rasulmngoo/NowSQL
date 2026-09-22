@@ -1,0 +1,189 @@
+[{
+  "_id": {
+    "$oid": "6a9e787440d1edc25aaa2cab"
+  },
+  "flightid": 1001,
+  "baggage_options": [
+    "Priority Boarding"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a9e78a0629e1d84a27d3af4"
+  },
+  "flightid": 1001,
+  "flight_number": "KC-851",
+  "departure_city": "Almaty",
+  "arrival_city": "Astana",
+  "price": 35000,
+  "seats_available": 24,
+  "status": "On Time",
+  "baggage_options": [
+    "7kg Hand",
+    "20kg Checked"
+  ],
+  "aircraft": {
+    "model": "Airbus A320",
+    "seats_capacity": 180
+  }
+},
+{
+  "_id": {
+    "$oid": "6a9e78a0629e1d84a27d3af5"
+  },
+  "flightid": 1002,
+  "flight_number": "KC-852",
+  "departure_city": "Astana",
+  "arrival_city": "Almaty",
+  "price": 38000,
+  "seats_available": 5,
+  "status": "On Time",
+  "baggage_options": [
+    "7kg Hand"
+  ],
+  "aircraft": {
+    "model": "Airbus A320",
+    "seats_capacity": 180
+  }
+},
+{
+  "_id": {
+    "$oid": "6a9e78a0629e1d84a27d3af6"
+  },
+  "flightid": 1003,
+  "flight_number": "DV-703",
+  "departure_city": "Almaty",
+  "arrival_city": "Shymkent",
+  "price": 18000,
+  "seats_available": 45,
+  "status": "On Time",
+  "baggage_options": [
+    "7kg Hand",
+    "23kg Checked",
+    "Priority Pass"
+  ],
+  "aircraft": {
+    "model": "Boeing 737",
+    "seats_capacity": 160
+  }
+},
+{
+  "_id": {
+    "$oid": "6a9e78a0629e1d84a27d3af7"
+  },
+  "flightid": 1004,
+  "flight_number": "KC-901",
+  "departure_city": "Almaty",
+  "arrival_city": "Dubai",
+  "price": 145000,
+  "seats_available": 12,
+  "status": "On Time",
+  "baggage_options": [
+    "10kg Hand",
+    "30kg Checked"
+  ],
+  "aircraft": {
+    "model": "Boeing 767",
+    "seats_capacity": 220
+  }
+},
+{
+  "_id": {
+    "$oid": "6a9e78a0629e1d84a27d3af8"
+  },
+  "flightid": 1005,
+  "flight_number": "IQ-405",
+  "departure_city": "Astana",
+  "arrival_city": "Atyrau",
+  "price": 42000,
+  "seats_available": 18,
+  "status": "On Time",
+  "baggage_options": [
+    "7kg Hand",
+    "20kg Checked"
+  ],
+  "aircraft": {
+    "model": "Embraer E190",
+    "seats_capacity": 110
+  }
+},
+{
+  "_id": {
+    "$oid": "6a9e78a0629e1d84a27d3afa"
+  },
+  "flightid": 1007,
+  "flight_number": "DV-715",
+  "departure_city": "Shymkent",
+  "arrival_city": "Astana",
+  "price": 22000,
+  "seats_available": 2,
+  "status": "On Time",
+  "baggage_options": [
+    "7kg Hand"
+  ],
+  "aircraft": {
+    "model": "Boeing 737",
+    "seats_capacity": 160
+  }
+},
+{
+  "_id": {
+    "$oid": "6a9e78a0629e1d84a27d3afb"
+  },
+  "flightid": 1008,
+  "flight_number": "KC-201",
+  "departure_city": "Astana",
+  "arrival_city": "London",
+  "price": 280000,
+  "seats_available": 8,
+  "status": "On Time",
+  "baggage_options": [
+    "10kg Hand",
+    "32kg Checked",
+    "Extra Bag"
+  ],
+  "aircraft": {
+    "model": "Boeing 767",
+    "seats_capacity": 220
+  }
+},
+{
+  "_id": {
+    "$oid": "6a9e78a0629e1d84a27d3afc"
+  },
+  "flightid": 1009,
+  "flight_number": "IQ-502",
+  "departure_city": "Aktau",
+  "arrival_city": "Almaty",
+  "price": 48000,
+  "seats_available": 15,
+  "status": "On Time",
+  "baggage_options": [
+    "7kg Hand",
+    "20kg Checked"
+  ],
+  "aircraft": {
+    "model": "Embraer E190",
+    "seats_capacity": 110
+  }
+},
+{
+  "_id": {
+    "$oid": "6a9e78a0629e1d84a27d3afd"
+  },
+  "flightid": 1010,
+  "flight_number": "KC-853",
+  "departure_city": "Almaty",
+  "arrival_city": "Astana",
+  "price": 36000,
+  "seats_available": 50,
+  "status": "On Time",
+  "baggage_options": [
+    "7kg Hand",
+    "20kg Checked"
+  ],
+  "aircraft": {
+    "model": "Airbus A320",
+    "seats_capacity": 180
+  }
+}]
